@@ -1,3 +1,6 @@
+/*
+    g++ drill16.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o drill16 `fltk-config --ldflags --use-images` -std=c++11
+*/
 #include "Lines_window.h"
 #include "Graph.h"
 
