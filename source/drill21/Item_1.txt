@@ -1,0 +1,10 @@
+apple 2 22.2
+cheese 6 11.3
+spoon 5 98.44
+tree 1 5.42
+duck 11 61.33
+door 17 32.1
+zebra 92 1.01
+lamp 16 1.9
+green 9 7.7
+beta 4 51.24
