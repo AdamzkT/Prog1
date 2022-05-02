@@ -7,7 +7,7 @@ void f(char* p, int x){
 int main() {
     printf("Hello world!\n");
     
-    char s_1[] = "Hello";
+    	char s_1[] = "Hello";
 	char s_2[] = "World!";
 	printf("%s %s\n", s_1, s_2);
 	
